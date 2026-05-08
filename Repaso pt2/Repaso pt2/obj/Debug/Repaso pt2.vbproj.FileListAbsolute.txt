@@ -1,0 +1,12 @@
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\bin\Debug\Repaso pt2.exe.config
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\bin\Debug\Repaso pt2.exe
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\bin\Debug\Repaso pt2.pdb
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\bin\Debug\Repaso pt2.xml
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.vbprojAssemblyReference.cache
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso_pt2.Form1.resources
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso_pt2.Resources.resources
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.vbproj.GenerateResource.cache
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.vbproj.CoreCompileInputs.cache
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.exe
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.xml
+C:\ARMANDO - 24567\Repaso pt2\Repaso pt2\obj\Debug\Repaso pt2.pdb
