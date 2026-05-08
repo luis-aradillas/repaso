@@ -7,6 +7,8 @@
 
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         Label1.Text = "click en el botón"
+        Label1.ForeColor = Color.Green
+        Label1.BackColor = Color.Red
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
