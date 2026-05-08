@@ -1,0 +1,11 @@
+C:\ARMANDO - 24567\Repaso3\Repaso3\bin\Debug\Repaso3.exe.config
+C:\ARMANDO - 24567\Repaso3\Repaso3\bin\Debug\Repaso3.exe
+C:\ARMANDO - 24567\Repaso3\Repaso3\bin\Debug\Repaso3.pdb
+C:\ARMANDO - 24567\Repaso3\Repaso3\bin\Debug\Repaso3.xml
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.Form1.resources
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.Resources.resources
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.vbproj.GenerateResource.cache
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.vbproj.CoreCompileInputs.cache
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.exe
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.xml
+C:\ARMANDO - 24567\Repaso3\Repaso3\obj\Debug\Repaso3.pdb
